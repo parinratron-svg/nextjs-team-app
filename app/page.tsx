@@ -6,9 +6,9 @@ export default function Home() {
  <h1>Team Portfolio</h1>
  <p>Welcome to our team website.</p>
  <ul>
- <li><a href="/member-a">ปืน</a></li>
- <li><a href="/member-b">ลีม</a></li>
- <li><a href="/member-c">ปอนด์</a></li>
+ <li><a href="puen">ปืน</a></li>
+ <li><a href="leem">ลีม</a></li>
+ <li><a href="pond">ปอนด์</a></li>
  </ul>
  </main>
  );
