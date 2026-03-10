@@ -15,6 +15,7 @@ export default function Home() {
  </ul>
   <ProfileCard name="puen" link="/puen" />
   <ProfileCard name="leem" link="/leem" /> 
+<ProfileCard name="pound" link="/pound" />
  </main>
  );
 
