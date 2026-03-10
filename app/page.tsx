@@ -1,5 +1,5 @@
 import Image from "next/image";
-
+import ProfileCard from "./components/ProfileCard";
 export default function Home() {
  return (
  <main style={{ padding: 24 }}>
@@ -11,7 +11,7 @@ export default function Home() {
  <li><a href="/puen">puen</a></li>
  <li><a href="/leem">leem</a></li>
  <li><a href="/pound">pound</a></li>
- </ul>
+ </ul> <ProfileCard name="leem" link="/leem" /> 
  </main>
  );
 
